@@ -152,3 +152,4 @@ resolution, in milliseconds, is given in the ``TIMER_RESOLUTION`` constant.
    .. ## pygame.time.Clock ##
 
 .. ## pygame.time ##
+
